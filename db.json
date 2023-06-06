@@ -1,0 +1,58 @@
+{
+    "users": [
+      {
+        "name": "Rutuvik",
+        "email": "rp@gmail.com",
+        "password": "rp123",
+        "id": 1
+      },
+      {
+        "name": "Patil",
+        "email": "patil@gmail.com",
+        "password": "patil123",
+        "id": 2
+      }
+    ],
+    "userdata": [
+      {
+        "username": "Rutuvik",
+        "category": "Income",
+        "amount": "50000",
+        "date": "2023-06-01",
+        "incomeCategory": "Salary",
+        "id": 1
+      },
+      {
+        "username": "Rutuvik",
+        "category": "Expense",
+        "amount": "5000",
+        "date": "2023-06-04",
+        "expenseCategory": "FoodNDrinks",
+        "id": 2
+      },
+      {
+        "username": "Rutuvik",
+        "category": "Income",
+        "amount": "4000",
+        "date": "2023-06-06",
+        "incomeCategory": "Gifts",
+        "id": 3
+      },
+      {
+        "username": "Patil",
+        "category": "Income",
+        "amount": "4000",
+        "date": "2023-06-05",
+        "incomeCategory": "Refunds",
+        "id": 5
+      },
+      {
+        "username": "Patil",
+        "category": "Expense",
+        "amount": "3000",
+        "date": "2023-06-01",
+        "expenseCategory": "Bills",
+        "id": 6
+      }
+    ]
+  }
